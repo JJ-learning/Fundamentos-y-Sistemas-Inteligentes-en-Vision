@@ -1,0 +1,4 @@
+/Users/juanjo/code/Uni/FSIV/Practicas/P6/built/CMakeFiles/rebuild_cache.dir
+/Users/juanjo/code/Uni/FSIV/Practicas/P6/built/CMakeFiles/edit_cache.dir
+/Users/juanjo/code/Uni/FSIV/Practicas/P6/built/CMakeFiles/test_bovw.dir
+/Users/juanjo/code/Uni/FSIV/Practicas/P6/built/CMakeFiles/train_bovw.dir
