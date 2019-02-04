@@ -1,0 +1,3 @@
+/home/juanjo/Desktop/FSIV/P1/esquelet/CMakeFiles/rebuild_cache.dir
+/home/juanjo/Desktop/FSIV/P1/esquelet/CMakeFiles/esqueleto_v2.dir
+/home/juanjo/Desktop/FSIV/P1/esquelet/CMakeFiles/edit_cache.dir

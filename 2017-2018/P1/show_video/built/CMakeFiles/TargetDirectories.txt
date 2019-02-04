@@ -1,0 +1,3 @@
+/home/juanjo/Documents/FSIV/P1/show_video/built/CMakeFiles/rebuild_cache.dir
+/home/juanjo/Documents/FSIV/P1/show_video/built/CMakeFiles/show_video.dir
+/home/juanjo/Documents/FSIV/P1/show_video/built/CMakeFiles/edit_cache.dir

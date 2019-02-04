@@ -1,0 +1,3 @@
+/Users/juanjo/Desktop/prueba/FSIV/P1/show_im/built/CMakeFiles/rebuild_cache.dir
+/Users/juanjo/Desktop/prueba/FSIV/P1/show_im/built/CMakeFiles/edit_cache.dir
+/Users/juanjo/Desktop/prueba/FSIV/P1/show_im/built/CMakeFiles/show_img.dir
